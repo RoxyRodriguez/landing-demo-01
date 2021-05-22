@@ -209,7 +209,7 @@ a {
 .slogan {
     height: 200px;
     background-color: #f25f3a;
-    background-image: url(../../images/bg-simplify-section-desktop.svg);
+    background-image: url(../images/bg-simplify-section-desktop.svg);
 }
 
 .slogan .slogan__message {
